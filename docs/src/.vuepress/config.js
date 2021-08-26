@@ -16,12 +16,12 @@ module.exports = {
     
     '/': {
       lang: 'en-US',
-      title: 'VuePress',
+      title: "People's Punk",
       description: 'Vue-powered Static Site Generator',
     },
     '/zh/': {
       lang: 'zh-CN',
-      title: 'VuePress',
+      title: "People's Punk",
       description: 'Vue 驱动的静态网站生成器',
     },
   },
@@ -49,10 +49,10 @@ module.exports = {
     editLinkText: '',
     lastUpdated: false,
     nav: [
-      {
-        text: 'Q&A',
-        link: '/',
-      },
+      // {
+      //   text: 'Q&A',
+      //   link: '/',
+      // },
       // {
       //   text: 'Config',
       //   link: '/config/'
@@ -61,7 +61,7 @@ module.exports = {
     sidebar: {
       '/zh/': [
         {
-          title: 'Q&A',
+          // title: 'Q&A',
           collapsable: false,
           children: [
             '',
@@ -71,7 +71,7 @@ module.exports = {
       ],
       '/': [
         {
-          title: 'Q&A',
+          // title: 'Q&A',
           collapsable: false,
           children: [
             '',

@@ -9,7 +9,9 @@ A:$DDDD is the fractionalized token of Cryptopunk#173 and the token of People’
 ### Q:How can I purchase $DDDD?
 A:You can purchase $DDDD tokens at Uniswap.
  
-Contract address: 0x8ca9a0fbd8db501f013f2e9e33a1b9dc129a48e0 [uniswap](https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x8ca9a0fbd8db501f013f2e9e33a1b9dc129a48e0&use=V2)
+Contract address: 0x8ca9a0fbd8db501f013f2e9e33a1b9dc129a48e0 
+
+[uniswap](https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x8ca9a0fbd8db501f013f2e9e33a1b9dc129a48e0&use=V2)
 
 
 ### Q:How much $DDDD will be circulating in total?
