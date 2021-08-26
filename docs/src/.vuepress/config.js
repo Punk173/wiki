@@ -4,12 +4,27 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Vuepress Docs Boilerplate',
+  title: "People's Punk",
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
   description: description,
 
+  locales: {
+    // 键名是该语言所属的子路径
+    // 作为特例，默认语言可以使用 '/' 作为其路径。
+    
+    '/': {
+      lang: 'en-US',
+      title: 'VuePress',
+      description: 'Vue-powered Static Site Generator',
+    },
+    '/zh/': {
+      lang: 'zh-CN',
+      title: 'VuePress',
+      description: 'Vue 驱动的静态网站生成器',
+    },
+  },
   /**
    * Extra tags to be injected to the page HTML `<head>`
    *
@@ -27,6 +42,7 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
+    logo:"/image/logo.png",
     repo: '',
     editLinks: false,
     docsDir: '',
@@ -34,26 +50,32 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: 'Guide',
-        link: '/guide/',
+        text: 'Q&A',
+        link: '/',
       },
-      {
-        text: 'Config',
-        link: '/config/'
-      },
-      {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org'
-      }
+      // {
+      //   text: 'Config',
+      //   link: '/config/'
+      // }
     ],
     sidebar: {
-      '/guide/': [
+      '/zh/': [
         {
-          title: 'Guide',
+          title: 'Q&A',
           collapsable: false,
           children: [
             '',
-            'using-vue',
+           
+          ]
+        }
+      ],
+      '/': [
+        {
+          title: 'Q&A',
+          collapsable: false,
+          children: [
+            '',
+            
           ]
         }
       ],
