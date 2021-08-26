@@ -1,0 +1,21 @@
+
+# dependencies
+**/node_modules
+
+# production
+/dist
+/.vscode
+
+# misc
+.DS_Store
+npm-debug.log*
+yarn-error.log
+.idea
+*bak
+.vscode
+
+# visual studio code
+.history
+*.log
+functions/*
+.temp/**
