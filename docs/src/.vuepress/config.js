@@ -17,12 +17,12 @@ module.exports = {
     '/': {
       lang: 'en-US',
       title: "People's Punk",
-      description: 'Vue-powered Static Site Generator',
+      description: "People's Punk | Punk173 Wiki | $DDDD Token How To",
     },
     '/zh/': {
       lang: 'zh-CN',
       title: "People's Punk",
-      description: 'Vue 驱动的静态网站生成器',
+      description: "People's Punk | Punk173 Wiki | $DDDD Token How To",
     },
   },
   /**
@@ -88,5 +88,9 @@ module.exports = {
   plugins: [
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
+    '@vuepress/google-analytics',
+      {
+        'ga': 'G-BXPDVV72L8' //替换成自己实际申请的ID
+      }
   ]
 }
