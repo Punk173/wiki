@@ -17,7 +17,7 @@ A:可以在Uniswap购买$DDDD代币
 
 
 ### Q:如何认证黄金身份标识
-A:
+
 - 持有$DDDD代币数量>4M 即可获得黄金标识
 - 点击Discord #✅verification 频道，输入 !join，@Collab.land自动发送私信。连接持有DDDD地址的钱包签名认证。
 
@@ -28,3 +28,14 @@ A:[价格查询](https://www.coingecko.com/en/coins/peoples-punk)
 ### Q:如何加入社群
 
 [推特](https://twitter.com/peoplespunk)  [Discord](https://discord.com/invite/EZUduaFDg9)
+
+
+### Q:meme制作工具
+
+[https://www.remove.bg/upload](https://www.remove.bg/upload)
+
+[https://imgflip.com/memegenerator](https://imgflip.com/memegenerator)
+
+[https://photomosh.com/](https://photomosh.com/)
+
+[https://www.iloveimg.com/compress-image](https://www.iloveimg.com/compress-image)

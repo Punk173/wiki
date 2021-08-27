@@ -19,7 +19,7 @@ A:1,000,000,000 $DDDD tokens in total.
 
 
 ### Q: In discord,How can I verify the identity?
-A: 
+
 - Possess over 4M of $DDDD tokens to get legendmember logo.
 
 - Click #✅verification , enter !join，@Collab.land  to send a private message automatically. Connect to the wallet that possesses the $DDDD address for the verification.
@@ -30,3 +30,15 @@ A: [Check The Price](https://www.coingecko.com/en/coins/peoples-punk)
 ### Q:How to become part of People's Punk
 
 [Twitter](https://twitter.com/peoplespunk)  [Discord](https://discord.com/invite/EZUduaFDg9)
+
+### Q:How To Make A Meme?
+
+Free Online Meme Generator.
+
+[https://www.remove.bg/upload](https://www.remove.bg/upload)
+
+[https://imgflip.com/memegenerator](https://imgflip.com/memegenerator)
+
+[https://photomosh.com/](https://photomosh.com/)
+
+[https://www.iloveimg.com/compress-image](https://www.iloveimg.com/compress-image)
