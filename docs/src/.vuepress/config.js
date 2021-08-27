@@ -88,9 +88,21 @@ module.exports = {
   plugins: [
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
-    '@vuepress/google-analytics',
-      {
-        'ga': 'G-BXPDVV72L8' //替换成自己实际申请的ID
-      }
+    
+  ],
+  head: [ 
+    ['script', {
+    async:true,
+    src:"https://www.googletagmanager.com/gtag/js?id=G-BXPDVV72L8"
+  },"" ],
+  ['script', 
+  {}, 
+  `
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-BXPDVV72L8');
+  `]
   ]
 }

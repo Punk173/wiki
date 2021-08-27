@@ -26,3 +26,7 @@ A:
 
 ### Q:How can I check the price of $DDDD?
 A: [Check The Price](https://www.coingecko.com/en/coins/peoples-punk)
+
+### Q:How to become part of People's Punk
+
+[Twitter](https://twitter.com/peoplespunk)  [Discord](https://discord.com/invite/EZUduaFDg9)
